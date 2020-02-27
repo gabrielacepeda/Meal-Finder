@@ -6,7 +6,7 @@ MealFinder is an app that allows you to search meals and their recipes using <a 
 Technologies:
 HTML, CSS, Javascript(ES6)
 
-## What it does
+## Project Details
 - Display UI with form to search and button to generate
 - Connect to API and get meals
 - Display meals in DOM with image and meal name
